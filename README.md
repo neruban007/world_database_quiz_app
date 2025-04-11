@@ -21,11 +21,6 @@ The application follows a three-tier architecture:
 - **Application Layer**: Quiz logic and database connectivity
 - **Data Layer**: MySQL "world" database
 
-## Screenshots
-
-![Application Screenshot](screenshots/app_screenshot.png)
-*(Add your own screenshots after running the application)*
-
 ## Prerequisites
 
 - Python 3.6+
@@ -73,9 +68,7 @@ Answer the geography questions by typing in the country name and clicking "Submi
 world-database-quiz/
 ├── quiz_app.py        # Main application file
 ├── requirements.txt   # Python dependencies
-├── README.md          # This file
-└── screenshots/       # Application screenshots
-    └── app_screenshot.png
+└── README.md          # This file
 ```
 
 ## Future Improvements
